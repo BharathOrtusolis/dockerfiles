@@ -1,2 +1,2 @@
-FROM run :v1
+FROM run:v1
 CMD ["ngnix", "-g", "daemon off;"]
