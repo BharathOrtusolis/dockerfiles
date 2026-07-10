@@ -4,3 +4,4 @@ ENV author="Bharath Kumar" \
     company="Ortusolis" \
     version="1.0" \
     description="Nginx Docker Image"
+CMD ["sleep", "1000"]
