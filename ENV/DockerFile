@@ -1,0 +1,5 @@
+FROM alamalinux:9
+ENV author="Bharath Kumar" \
+      company="Ortusolis" \
+      version="1.0" \
+      description="Nginx Docker Image"
